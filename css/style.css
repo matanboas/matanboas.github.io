@@ -1,0 +1,163 @@
+@font-face {
+  font-family: gotham;
+  src: url(Gotham-Bold.otf);
+  font-family: gotham-bold;
+  src: url(Gotham-Black.otf);
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  font-family: gotham;
+  font-weight: normal;
+  background-color: #F2F2F2;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+.nav-container {
+  background: #98ACF8;
+}
+
+.nav-container a {
+  color: #FEFEFE;
+}
+
+header {
+  text-align: center;
+  padding: 0.7em 0;
+}
+
+header .logo {
+  color: #BEDCFA;
+  font-size: 50px;
+}
+
+nav {
+  margin: 1.7em 0 1.2em;
+  font-family: gotham-bold;
+  font-size: 21px;
+}
+
+nav ul li {
+  padding: 0 0.4em;
+  display: inline;
+}
+
+.social-header {
+  display: none;
+}
+
+.hero {
+  background-color: #DA9FF9;
+  display: -ms-grid;
+  display: grid;
+  text-align: center;
+}
+
+.content {
+  font-size: 35px;
+  line-height: 2;
+}
+
+.call-to-action {
+  color: #363636;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-bottom: 4em;
+}
+
+.call-to-action img {
+  width: 100px;
+  height: auto;
+}
+
+.call-to-action p {
+  margin: 0 0.5em;
+}
+
+.order {
+  margin-top: 8em;
+}
+
+.order textarea, .order input {
+  border-radius: 25px;
+  border: 0.3px solid #C2C2C2;
+  width: 25em;
+  margin: 3px;
+}
+
+.order input {
+  height: 3.5em;
+  display: block;
+  margin: auto;
+  width: 95%;
+}
+
+.order textarea {
+  height: 20em;
+  display: block;
+  margin: auto;
+  width: 95%;
+}
+
+.order section {
+  text-align: left;
+  display: block;
+}
+
+.order section label {
+  color: #363636;
+  font-size: 37px;
+  float: left;
+  padding: 0 0 0.2em 0.5em;
+}
+
+.order section a {
+  display: block;
+  color: #949494;
+  padding-left: 0.8em;
+  font-size: 26px;
+}
+
+button {
+  background-color: #d6d6d6;
+  border-radius: 25px;
+  display: block;
+  margin: 0 auto 2em;
+  width: 80%;
+  height: 4em;
+  border: 0.3px solid #C2C2C2;
+  font-family: gotham-bold !important;
+  font-size: 100%;
+  color: #363636;
+}
+
+footer {
+  padding: 1.5em;
+  text-align: center;
+  background: #D4D1D1;
+  color: #949494;
+  line-height: 1.7;
+  font-size: 25px;
+}
+/*# sourceMappingURL=style.css.map */
