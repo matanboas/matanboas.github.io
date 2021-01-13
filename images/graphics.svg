@@ -1,20 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="893.236" viewBox="0 0 1920 893.236">
-  <rect id="Rectangle_2" data-name="Rectangle 2" width="1307" height="861" transform="translate(0 32.236)" fill="#da9ff9"/>
-  <g id="polygons" transform="translate(0 -82.764)">
-    <path id="Polygon_11" data-name="Polygon 11" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1290.095 452.734) rotate(-105)" fill="#e5707e"/>
-    <path id="Polygon_12" data-name="Polygon 12" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(344.324 266.865) rotate(-67)" fill="#a3ddcb"/>
-    <path id="Polygon_13" data-name="Polygon 13" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1011.356 550.402) rotate(113)" fill="#e5707e"/>
-    <path id="Polygon_15" data-name="Polygon 15" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1032.669 577.107) rotate(-67)" fill="#e8e9a1"/>
-    <path id="Polygon_16" data-name="Polygon 16" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(959.878 192.982) rotate(113)" fill="#e6b566"/>
-    <path id="Polygon_19" data-name="Polygon 19" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1569.446 686.763) rotate(60)" fill="#a3ddcb"/>
-    <path id="Polygon_20" data-name="Polygon 20" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="matrix(-0.391, 0.921, -0.921, -0.391, 1191.501, 269.039)" fill="#a3ddcb"/>
-    <path id="Polygon_21" data-name="Polygon 21" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(24.152 321.984) rotate(-67)" fill="#e6b566"/>
-    <path id="Polygon_22" data-name="Polygon 22" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1077.424 636.237) rotate(25)" fill="#e8e9a1"/>
-    <path id="Polygon_24" data-name="Polygon 24" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(252.446 613.763) rotate(60)" fill="#e5707e"/>
-    <path id="Polygon_25" data-name="Polygon 25" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(405.669 809.107) rotate(-67)" fill="#e8e9a1"/>
-  </g>
-  <g id="bubbles" transform="translate(0 -82.764)">
-    <circle id="Ellipse_1" data-name="Ellipse 1" cx="150" cy="150" r="150" transform="translate(1620 146)" fill="rgba(0,136,145,0.15)"/>
-    <circle id="Ellipse_2" data-name="Ellipse 2" cx="150" cy="150" r="150" transform="translate(1311 563)" fill="rgba(15,48,87,0.15)"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1270.764" height="819.259" viewBox="0 0 1270.764 819.259">
+  <path id="Polygon_12" data-name="Polygon 12" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(320.172 184.101) rotate(-67)" fill="#a3ddcb"/>
+  <path id="Polygon_13" data-name="Polygon 13" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(987.205 467.638) rotate(113)" fill="#e5707e"/>
+  <path id="Polygon_15" data-name="Polygon 15" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1008.517 494.344) rotate(-67)" fill="#e8e9a1"/>
+  <path id="Polygon_16" data-name="Polygon 16" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(935.726 110.219) rotate(113)" fill="#e6b566"/>
+  <path id="Polygon_20" data-name="Polygon 20" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="matrix(-0.391, 0.921, -0.921, -0.391, 1167.349, 186.275)" fill="#a3ddcb"/>
+  <path id="Polygon_21" data-name="Polygon 21" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(0 239.22) rotate(-67)" fill="#e6b566"/>
+  <path id="Polygon_22" data-name="Polygon 22" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(1053.272 553.474) rotate(25)" fill="#e8e9a1"/>
+  <path id="Polygon_24" data-name="Polygon 24" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(228.294 531) rotate(60)" fill="#e5707e"/>
+  <path id="Polygon_25" data-name="Polygon 25" d="M93.739,12.522a7,7,0,0,1,12.522,0L194.935,189.87A7,7,0,0,1,188.674,200H11.326a7,7,0,0,1-6.261-10.13Z" transform="translate(381.517 726.344) rotate(-67)" fill="#e8e9a1"/>
 </svg>
