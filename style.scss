@@ -1,7 +1,4 @@
 @font-face {
-    font-family: gotham;
-    src: url(Gotham-Bold.otf);
-
     font-family: gotham-bold;
     src: url(Gotham-Black.otf);
 }
@@ -9,7 +6,7 @@
 body {
     height: 100vh;
     margin: 0;
-    font-family: gotham !important;
+    font-family: 'Oswald', sans-serif;
     font-weight: normal;
     background-color: #F2F2F2;
 }
