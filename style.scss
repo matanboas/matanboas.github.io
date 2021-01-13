@@ -112,13 +112,12 @@ nav {
             color: #363636;
             font-size: 37px;
             float: left;
-            padding: 0 0 0.2em 0.5em;
+            margin: 0 0 0.2em 0.5em;
         }
         a {
-            display: block;
             color: #949494;
-            padding-left: 0.8em;
             font-size: 26px;
+            margin: 0 0 0.2em 0.5em;
         }
     }
 }
@@ -142,4 +141,10 @@ footer {
     color: #949494;
     line-height: 1.7;
     font-size: 25px;
+}
+
+.inlining {
+    font-size: 37px;
+    display: inline-flexbox;
+    justify-content: space-between;
 }
