@@ -1,6 +1,6 @@
 @font-face {
-    font-family: anton;
-    src: url(https://fonts.googleapis.com/css2?family=Anton&display=swap);
+    font-family: gotham;
+    src: url(Gotham-Bold.otf);
 
     font-family: gotham-bold;
     src: url(Gotham-Black.otf);
@@ -9,7 +9,7 @@
 body {
     height: 100vh;
     margin: 0;
-    font-family: anton !important;
+    font-family: gotham !important;
     font-weight: normal;
     background-color: #F2F2F2;
 }
