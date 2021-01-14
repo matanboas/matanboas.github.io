@@ -49,7 +49,7 @@ header .logo {
 
 nav {
   margin: 1.7em 0 1.2em;
-  font-family: gotham-bold !important;
+  font-family: gotham-bold;
   font-size: 21px;
 }
 
@@ -209,21 +209,35 @@ footer {
 
 @media only screen and (min-width: 1050px) {
   header {
+    text-align: none;
+    font-size: 0;
+    padding: 0;
+    margin: 0;
     padding: 0.5em;
-    display: -ms-grid;
-    display: grid;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
   }
   header .logo {
-    float: left;
-    padding: 0 0 0 0.5em;
+    display: inline;
     font-size: 50px;
     margin: 0;
+    width: 10.4em;
+    padding-top: 15px;
   }
   header nav {
+    padding: 100px;
+    width: 20em;
+    display: inline;
     font-size: 30px;
-    padding: 0.2em 1.5em;
+    padding: 40px 0 0 0;
     margin: 0;
-    padding-right: 0;
+  }
+  header nav ul {
+    display: inline;
   }
 }
 
@@ -235,28 +249,38 @@ footer {
     display: flex;
   }
   header {
-    font-size: 0;
-    padding: 0;
-    display: -ms-grid;
-    display: grid;
     width: 65%;
   }
   .social-header {
+    z-index: 30;
     width: 35%;
     background-color: #bedcfa;
-    display: -ms-grid;
-    display: grid;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
   }
   .social-header .logos {
     width: 100%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 0 0  20px 0;
+  }
+  .social-header ul {
+    width: auto;
+    height: 100%;
+    display: block;
     margin: auto;
+    text-align: center;
   }
   .social-header ul li {
-    display: inline;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
   }
   .social-header ul li img {
-    width: 10%;
-    margin: 0 50px;
+    width: 50%;
+    margin-top: 20%;
   }
   .hero {
     font-size: 0;
@@ -299,6 +323,7 @@ footer {
     display: inline-block;
     width: 30%;
     margin-top: -4px;
+    z-index: 1;
   }
 }
 /*# sourceMappingURL=style.css.map */
