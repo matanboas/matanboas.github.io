@@ -25,6 +25,10 @@ img {
     width: 100%;
 }
 
+.shapes {
+    display: none;
+}
+
 .design {
     display: none;
 }
@@ -113,17 +117,17 @@ nav {
     }
     section {
         text-align: left;
-        display: block;
+        display: grid;
         label {
             color: #363636;
-            font-size: 37px;
+            font-size: 50px;
             float: left;
             margin: 0 0 0.2em 0.5em;
         }
         a {
             color: #949494;
             font-size: 26px;
-            margin: 0 0 0.2em 0.5em;
+            margin: 0 0 0.2em 1em;
         }
     }
 }
@@ -211,6 +215,50 @@ footer {
             }
         }
     }
+    .order {
+        text-align: center;
+        justify-content: center;
+        display: inline-block;
+        width: 100%;
+        form {
+            textarea, input {
+                margin: 0;
+                padding: 0;
+            }
+            input {
+                height: 3.5em;
+                width: 300px;
+                padding: 0 21px;
+            }
+            textarea {
+                height: 20em;
+                display: block;
+                width: 700px;
+            }
+            section {
+                .mobile {
+                    display: none;
+                }
+                display: inline-block;
+                label {
+                    color: #363636;
+                    font-size: 37px;
+                    float: left;
+                    padding: 0;
+                    margin: 0;
+                }
+                a {
+                    color: #949494;
+                    font-size: 26px;
+                    margin: 0;
+                    padding-left: 195px;
+                }
+            }
+            button {
+                width: 50%;
+            }
+        }
+    }
 }
 
 @media only screen and (min-width: 1300px) {
@@ -284,5 +332,15 @@ footer {
         width: 30%;
         margin-top: -4px;
         z-index: 1;
+    }
+}
+@media only screen and (min-width: 1900px) {
+    .shapes {
+        display: inline-block;
+        width: 35%;
+        margin: 0 45px;
+    }
+    .order {
+        width: 60%;
     }
 }
