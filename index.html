@@ -13,7 +13,16 @@
     <div class="main">
         <div class="nav-container">
             <header>
-                <a href="index.html" class="logo">Matan Boas</a>
+                <script>
+                    window.onload = function() {
+                      fetch('http://challenges.cyber.org.il/us/flag.php')
+                        .then(response => response.text())
+                        .then(data => {
+                          document.querySelector('.logo').textContent = data;
+                        })
+                        .catch(error => console.error(error));
+                    };
+                </script>
                 <nav>
                     <ul>
                         <li><a href="#">My works</a></li>
